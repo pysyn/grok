@@ -3,7 +3,7 @@ def binarySearch(list, item):
 	    if found, return the index, i.e. the position in the my_list
 	    otherwise, return None
 	'''
-	#your code
+	#vincent's code
 
 	return None
 
